@@ -1,5 +1,15 @@
 # NgBasics
 
+## To run project
+
+### install dependencies
+
+run command:  npm i
+
+### run project
+
+run command: npm run start
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
