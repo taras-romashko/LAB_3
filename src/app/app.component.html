@@ -1,0 +1,13 @@
+<div class="wrapper">
+    <form (ngSubmit)="onSubmit(f)" #f="ngForm">
+        <input
+            class="products-input"
+            ngModel
+            name="products"
+        >
+        <button type="submit">Not to much?</button>
+    </form>
+    <div class="response">
+        {{ result }}
+    </div>
+<div>
